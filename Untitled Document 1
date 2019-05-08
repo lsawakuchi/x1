@@ -1,0 +1,36 @@
+['Falta Pagamento',
+ 'CÓDIGO DE ANOTAÇÃO NÃO ENCONTRADO',
+ nan,
+ ==='Execução de Título Judicial Trabalhista',
+ 'Execução Fiscal Estadual',
+ ==='Empréstimos em contas - c/c garantidas, financiamentos de capital de giro, programas especiais, etc',
+ ==='Cartão de crédito',
+ ==='Créditos e financiamentos - empréstimos a pessoas físicas , financiamentos ao consumidor final , etc',
+ 'Execução',
+ 'Operações imobiliárias em geral, inclusive de sociedades de poupança',
+ 'Execução Fiscal Federal',
+ 'Adiantamento a depositantes - c/c devedores em geral',
+ ==='Empréstimos agrícolas e industriais - financiamentos de custeio de investimentos agrícolas e industriais',
+ 'Execução Fiscal Municipal',
+ 'Execução - Pequenas Causas',
+ 'Operações ajuizadas ',
+ 'Arrendamentos, inclusive leasing',
+ 'Busca e Apreensão',
+ 'Consórcio outros bens móveis',
+ 'Consórcio veículos leves']
+
+Criando um nível de Impacto entre as dívidas:
+(Categoria Crédito)
+1 - Empréstimos em contas - c/c garantidas, financiamentos de capital de giro, programas especiais, etc;
+2 - Cartão de crédito
+3 - Créditos e financiamentos - empréstimos a pessoas físicas , financiamentos ao consumidor final , etc
+4 - 'Empréstimos agrícolas e industriais - financiamentos de custeio de investimentos agrícolas e industriais',
+
+5 - Cheques sem fundo
+6 - Busca e Apreensão
+7 - Execução de Título Judicial Trabalhista
+
+-- Execucao fiscal:
+  https://fabiosarreta.jusbrasil.com.br/artigos/437700626/o-que-e-execucao-fiscal
+
+
